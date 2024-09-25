@@ -1,0 +1,7 @@
+/rmdb_client/build/
+
+/.idea/
+
+/cmake-build-debug/
+
+/build/
